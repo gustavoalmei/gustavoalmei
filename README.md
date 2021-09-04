@@ -10,11 +10,11 @@
 
 ## Skills
 
-<img src="img/html.png" style="zoom:10%;"/><img src="img/javascript.png" style="zoom:10%;"/><img src="img/css.png" style="zoom:10%;"/><img src="img/git.png" style="zoom:3.5%;"/>
+<img src="img/html.png" style="zoom:10px;"/><img src="img/javascript.png" style="zoom:10px;"/><img src="img/css.png" style="zoom:10px;"/><img src="img/git.png" style="zoom:8px;"/>
 
 <hr>
 
 ## Contato
 
-<a href="https://twitter.com/gustavoczz"><img src="img/twitter.png" style="zoom:10%;" /></a>	<a href="https://www.instagram.com/gustavoczz/"><img src="img/instagram.png" style="zoom:10%;" /></a>
+<a href="https://twitter.com/gustavoczz"><img src="img/twitter.png" style="zoom:10px;" /></a>	<a href="https://www.instagram.com/gustavoczz/"><img src="img/instagram.png" style="zoom:10px;" /></a>
 
