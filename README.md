@@ -16,5 +16,5 @@
 
 ## Contato
 
-<a href="https://twitter.com/gustavoczz"><img src="img/twitter.png" style="width:85px;" /></a>	<a href="https://www.instagram.com/gustavoczz/"><img src="img/instagram.png" style="width:85px" /></a>
+<a href="https://twitter.com/gustavoczz"><img src="img/twitter.png" style="width:85px;" /></a>	<a href="https://www.instagram.com/gustavoczz/"><img src="img/instagram.png" style="width:85px margin-left:20px" /></a>
 
