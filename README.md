@@ -1,4 +1,4 @@
-<img src="./img/developer.gif" align="right" width="200px">
+<img src="./img/developer.gif" align="right" width="250px">
 
 
 # Olá, me chamo **Gustavo**!! 
