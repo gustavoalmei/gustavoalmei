@@ -6,13 +6,13 @@
 - Curto jogar alguns joguinhos com os amigos pra se divertir :smile: . 
 - Apaixonado por café :coffee: .
 
-<hr>
+---
 
 ## Skills
 
 <img src="img/html.png" style="width:85px;"/><img src="img/javascript.png" style= "width:85px"/><img src="img/css.png" style="width:85px;"/><img src="img/git.png" style="width:85px"/>
 
-<hr>
+---
 
 ## Contato
 
