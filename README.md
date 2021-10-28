@@ -1,10 +1,8 @@
 <img src="./img/developer.gif" align="right" width="250px">
 
-# <div>
-
 # Olá, me chamo **Gustavo**!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"/>
 
-# </div>
+
 
 - Atualmente trabalho com suporte de TI, porém estudo para entrar na área de Desenvolvimento Web :computer: .
 - Curto jogar alguns joguinhos com os amigos pra se divertir :smile: . 
