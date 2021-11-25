@@ -36,4 +36,7 @@
   <a href="https://www.linkedin.com/in/gustavo-almeida-a9751a177/" target="_blank">
     <img align="center" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+    <img align="center" height="30px" src="https://dcbadge.vercel.app/api/shield/bot/590179853353877518" />
+  </a>
+
 </div>
