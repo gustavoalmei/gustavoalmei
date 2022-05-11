@@ -25,7 +25,7 @@
 ## Contato
 <div>
   <a href="mailto:gustavo.almei2@hotmail.com" target="_blank">
-    <img align="center" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img align="center" height="30px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/gustavoczz/" target="_blank">
     <img align="center" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
