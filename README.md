@@ -1,5 +1,5 @@
 <div>
-  <img src="./img/developer.gif" align="right" height="250px">
+  <img src="./img/developer.gif" align="center" height="250px">
 </div>
 
   # Olá, me chamo **Gustavo**!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="50px"/>
