@@ -1,4 +1,7 @@
+<div>
+  <img src="./img/developer.gif" align="right" height="250px">
 </div>
+
   # Olá, me chamo **Gustavo**!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="50px"/>
 
 
@@ -35,8 +38,3 @@
       <img align="center" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </div>
-</div>
-
-<div>
-  <img src="./img/developer.gif" align="right" height="250px">
-</div>
