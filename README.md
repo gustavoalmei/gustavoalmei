@@ -1,30 +1,27 @@
-<div>
-  <img src="./img/developer.gif" align="center" height="250px">
+<div align="center">
+  <h1>Olá, me chamo Gustavo!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="50px"/></h1>
 </div>
+<div>
+    <ul style="list-style:none;">
+      <p>- Atualmente trabalho com suporte de TI, porém estudo para entrar na área de Desenvolvimento Web :computer:.</p>
+      <p>- Faço Engenharia de Software :smile:.
+      <p>- Apaixonado por café :coffee:.</p>
+  </div>
 
-  # Olá, me chamo **Gustavo**!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="50px"/>
-
-
-  - Atualmente trabalho com suporte de TI, porém estudo para entrar na área de Desenvolvimento Web :computer: .
-  - Curto jogar alguns joguinhos com os amigos pra se divertir :smile: . 
-  - Apaixonado por café :coffee: .
-
-  ##
   <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavoalmei&show_icons=true&theme=vue-dark&locale=pt-br" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalmei&layout=compact&show_icons=true&theme=vue-dark&locale=pt-br" />
   </div>
 
-
-  ## Skills
   <div>
+    <h2>Skills</h2>
     <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
     <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
     <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
   </div>
 
-  ## Contato
   <div>
+    <h2>Contato</h2>
     <a href="mailto:gustavo.almei2@hotmail.com" target="_blank">
       <img align="center" height="30px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
     </a>
