@@ -23,8 +23,8 @@
   </div>
 
   <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavoalmei&show_icons=true&theme=vue-dark&locale=pt-br" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalmei&layout=compact&show_icons=true&theme=vue-dark&locale=pt-br" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalmei&layout=compact&theme=dark" />
   </div>
 
   <div>
