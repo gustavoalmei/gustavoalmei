@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Hi, i'm Gustavo Almeida</h1>
-  <a href="https://www.linkedin.com/in/gustavoalmeidda/">
+  <a href="https://www.linkedin.com/in/gustavoalmeidda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/gustavo.allmeidda/">
+  <a href="https://www.instagram.com/gustavo.allmeidda/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/iamgustavouu">
+  <a href="https://twitter.com/iamgustavouu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a><br>
-   <a href="mailto:gustavo.almei2@hotmail.com">
+   <a href="mailto:gustavo.almei2@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a><br>
   <img height="180em" align="center" src="./img/emoji.png"/><br>
