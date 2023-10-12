@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <p>Meu objetivo é se tornar um desenvolvedor, e sabe o que é mais louco? eu sei que vou conseguir! 😃</p>
+  <p>Buscando ser um dev melhor, e consquistar os meus planos! 😃</p>
 </div>
 
 <div align="center">
@@ -28,8 +28,8 @@
     <summary>About me</summary>
     <ul>
       <li>Tenho 23 Anos</li>
-      <li>Trabalho como Assistente de TI</li>
-      <li>Tenho como objetivo de entrar na área de desenvolvimento</li>
+      <li>Desenvolvedor Front-end</li>
+      <li>Tenho como objetivo aprimorar minhas habilidades como dev.</li>
     </ul>
   </details>
   <details>
@@ -37,7 +37,7 @@
     <table>
       <thead>
         <tr>
-          <th>Curso / Faculdade</th>
+          <th>Cursos / Faculdade</th>
         </tr>
       </thead>
       <tbody>
