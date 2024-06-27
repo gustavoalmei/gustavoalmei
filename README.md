@@ -11,8 +11,15 @@ export default sobreMim {
  let name = "Gustavo Almeida";
  let stack = "Front end";
 
- let languages = ["HTML5", "CSS3", "JavaScript", "Vue.js", "TS", "React.js"];
- let frameworksBibliotecas = ["Vuetify", "Bootstrap", "jQuery", "Styled componentes"]; 
+ let languages = [
+   "HTML5", "CSS3",
+   "JavaScript", "Vue.js",
+   "TS", "React.js"
+];
+ let frameworksBibliotecas = [
+   "Vuetify", "Bootstrap",
+   "jQuery", "Styled componentes
+"];
 }
 ```
 
